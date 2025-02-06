@@ -1,0 +1,10 @@
+# SuperKupi
+
+SuperKupi je aplikacija koja vam omogućava jednostavno pretraživanje i kupovinu proizvoda iz različitih kategorija. 
+
+## Ključne karakteristike:
+- Brzo pretraživanje proizvoda
+- Prikaz detaljnih informacija o proizvodima
+- Jednostavna i intuitivna navigacija
+
+Preuzmite SuperKupi i uživajte u jednostavnom i brzom online kupovanju! 

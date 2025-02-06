@@ -1,0 +1,10 @@
+# SuperKupi
+
+SuperKupi je vaša omiljena aplikacija za online kupovinu. 
+
+## Glavne funkcionalnosti:
+- Pristup širokom spektru proizvoda
+- Detaljne informacije o svakom proizvodu
+- Laka i brza navigacija kroz aplikaciju
+
+Instalirajte SuperKupi i otkrijte jednostavnost online kupovine! 
